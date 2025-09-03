@@ -1,0 +1,9 @@
+name = "Cold War Enhancement Mod: Wild Wasteland v0.1a"
+path = "mod/CWEWildWasteland"
+user_dir = "CWEWildWasteland
+replace_path = "common"
+replace_path = "units"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "localisation"
+replace_path = "history"
