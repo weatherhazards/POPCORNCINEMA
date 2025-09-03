@@ -1,0 +1,328 @@
+graphical_culture = EuropeanGC
+color = { 200 160 221 }
+hms_government = { 135 206 250 }
+democracy1 = { 168 168 168 }
+party = {
+		name = "Voltaic Union (Nationalist)"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 1955.1.1
+}
+party = {
+		name = "PSEMA (Nationalist)"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1955.1.1
+		end_date = 1960.1.1
+}
+party = {
+		name = "UDV-RDA (Nationalist)"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1960.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Voltaic Democratic Movement"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1960.1.1
+}
+party = {
+		name = "UDV-RDA (Centre)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1960.1.1
+		end_date = 2010.1.1
+}
+party = {
+		name = "Union for Progress and Reform"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 2010.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Voltaic Union (Moderate)"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1955.1.1
+}
+party = {
+		name = "PSEMA (Moderate)"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1955.1.1
+		end_date = 1960.1.1
+}
+party = {
+		name = "UDV-RDA (Liberal)"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1960.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Voltaic Democratic Party"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1960.1.1
+}
+party = {
+		name = "UDV-RDA (Liberal)"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1960.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "UDV-RDA (Left)"
+		citizenship_policy = limited_citizenship
+		economic_policy = planned_economy1
+		ideology = socialist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1989.4.1
+}
+party = {
+		name = "ODP-MT (Marxist)"
+		citizenship_policy = limited_citizenship
+		economic_policy = planned_economy1
+		ideology = socialist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1989.4.1
+		end_date = 1996.2.6
+}
+party = {
+		name = "CDP (Marxist)"
+		citizenship_policy = limited_citizenship
+		economic_policy = planned_economy1
+		ideology = socialist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1996.2.6
+		end_date = 2092.1.1
+}
+party = {
+		name = "UDV-RDA (Progressive)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1977.1.1
+}
+party = {
+		name = "Voltaic Progressive Union"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1977.1.1
+		end_date = 1979.1.1
+}
+party = {
+		name = "Voltaic Progressive Front"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1977.1.1
+		end_date = 2014.1.25
+}
+party = {
+		name = "People's Movement for Progress"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 2014.1.25
+		end_date = 2092.1.1
+}
+party = {
+		name = "Voltaic Union (Populist)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 1960.1.1
+}
+party = {
+		name = "UDV-RDA (Populist)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1960.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Voltaic Union"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = traditionalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "African Independence Party (ML)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = communist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1999.1.1
+}
+party = {
+		name = "African Independence Party (Sankarist)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = communist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1999.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "African Independence Party (LN)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1999.1.1
+}
+party = {
+		name = "African Independence Party (Ouedraogo)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1999.1.1
+		end_date = 2002.1.1
+}
+party = {
+		name = "Party for Democracy and Socialism"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 2002.1.1
+		end_date = 2012.3.31
+}
+party = {
+		name = "PDS/Metba"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 2012.3.31
+		end_date = 2092.1.1
+}
+unit_names = {
+	transportship = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+	modern_frigate = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+	cruiser = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+	modern_cruiser = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+	frigate = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+	modern_destroyer = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+	destroyer = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+	submarine = {
+		Sankara Bobo-Dioulasso Yameogo Tenkodogo Yatenga Zandoma Ouagadougou Mossi
+	}
+
+}

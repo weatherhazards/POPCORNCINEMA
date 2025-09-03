@@ -1,0 +1,208 @@
+graphical_culture = Generic
+color = { 250 128 114 }
+party = {
+		name = "Economic Union Party"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "United Newfoundland Party (Moderate)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1949.1.1
+}
+party = {
+		name = "Progressive Conservative Party (Moderate)"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = big_tent
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1949.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "United Newfoundland Party"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1949.1.1
+}
+party = {
+		name = "Progressive Conservative Party"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = conservative
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1949.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "Confederate Association"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1948.1.1
+}
+party = {
+		name = "Liberal Party of Newfoundland"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1948.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Fishermen's Protective Union"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = socialist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Newfoundland People's Party (Progressive)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1961.1.1
+}
+party = {
+		name = "NL NDP (Progressive)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1961.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "United Newfoundland Party (Populist)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 1949.1.1
+}
+party = {
+		name = "Progressive Conservative Party (Red Tory)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1949.1.1
+		end_date = 2019.1.1
+}
+party = {
+		name = "NL Alliance"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 2019.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "Responsible Government League"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = traditionalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "CPNL"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = communist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Fishermen's Protective Union (LN)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+
+unit_names = {
+	carrier = {
+		"Beacon Hill" "Cap De La Madeleine" "Cape Breton" Charlottetown Chebogue Dunver Eastview Grou Joliette Jonquiere "Kirkland Lake" Kokanee "La Hulloise" Longueuil Magog Matane Montreal "New Glasgow" "New Waterford" Orkney Outremont "Port Colborne" "Prince Rupert" "St Catherines" "Saint John" Springhill Stettler Stormont Swansea "Thetford Mines" Valleyfield Waskesiu Wentworth
+	}
+	transportship = {
+	}
+	modern_frigate = {
+		Arleux Armentieres Arras Festubert Givenchy Loos Messines "St Eloi" "St Julien" Thiepval Vimy Ypres
+	}
+	cruiser = {
+		Niobe Aurora Rainbow
+	}
+	modern_cruiser = {
+		"Beacon Hill" "Cap De La Madeleine" "Cape Breton" Charlottetown Chebogue Dunver Eastview Grou Joliette Jonquiere "Kirkland Lake" Kokanee "La Hulloise" Longueuil Magog Matane Montreal "New Glasgow" "New Waterford" Orkney Outremont "Port Colborne" "Prince Rupert" "St Catherines" "Saint John" Springhill Stettler Stormont Swansea "Thetford Mines" Valleyfield Waskesiu Wentworth
+	}
+	frigate = {
+		Ontario Quebeck "Nova Scotia" "New Brunswick" Manitoba "British Columbia" "Price Edward Island" Saskatchewan Alberta
+	}
+	modern_destroyer = {
+		"John A. Macdonald" "Alexander Mackenzie" "John Abbott" "John Thompson" "Mackenzie Bowell" "Charles Tupper" "Wilfrid Laurier" "Robert Borden" "Arthur Meighen" "W. L. Mackenzie King" "Richard B. Bennett"
+	}
+	destroyer = {
+		Ontario Quebeck "Nova Scotia" "New Brunswick" Manitoba "British Columbia" "Prince Edward Island" Saskatchewan Alberta
+	}
+	submarine = {
+		"Guy Carleton" "Robert Prescott" "Robert Milnes" "Thomas Dunn" "James H. Craig" "George Pr vost" "Gordon Drummond" "John C. Sherbrooke" "Charles Lennox" "Goerge Ramsay" "James Kempt" "Matthew Whitworth-Aylmer" "Archibald Acheson" "John Colborne" "John Labton" "Charles P. Thomson" "Charles Bagot" "Charles Metcalfe" "Charles Cathcart" "James Bruce" "Edmund Walker Head"
+	}
+
+}

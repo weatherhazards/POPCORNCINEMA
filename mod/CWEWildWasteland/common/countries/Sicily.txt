@@ -1,0 +1,242 @@
+graphical_culture = ItalianGC
+color = { 160 30 154 }
+party = {
+		name = "MIS (Right)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2016.11.1
+}
+party = {
+		name = "Sicilian National Movement"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 2016.11.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "MIS"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2000.1.1
+}
+party = {
+		name = "Movement for Autonomy"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 2000.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "MIS (Moderate)"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2000.1.1
+}
+party = {
+		name = "Movement for Autonomy (Christian Democrat)"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 2000.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "UDS (Liberal)"
+		citizenship_policy = limited_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "MIS (Left)"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = socialist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1947.1.1
+}
+party = {
+		name = "MISDR"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = socialist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1951.6.4
+		end_date = 2013.5.21
+}
+party = {
+		name = "Sicilian Socialist Party"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = socialist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 2013.5.21
+		end_date = 2092.1.1
+}
+party = {
+		name = "MIS (Progressive)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1958.1.1
+}
+party = {
+		name = "USCS"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1958.1.1
+		end_date = 2013.5.21 #1963.1.1
+}
+party = {
+		name = "Sicilian Socialist Party (Right)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 2013.5.21
+		end_date = 2092.1.1
+}
+party = {
+		name = "MIS (Populist)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2016.11.1
+}
+party = {
+		name = "Sicilian National Movement (USI)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 2016.11.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "UDS (Monarchist)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = traditionalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "People's Bloc (Sicily)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = communist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "MIS (LN)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2000.1.1
+}
+party = {
+		name = "United for Sicily"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 2000.1.1
+		end_date = 2092.1.1
+}
+
+unit_names = {
+	carrier = {
+		"Alfonso I" "Duca di Calabria" "Duca di Castro" "Duca di Noto" "Due Sicilie" "Ferdinando III" Reale Regina "Regno di Napoli" "Regno di Sicilia"
+	}
+	transportship = {
+		Aurora Etna Fama Flora Fortuna Galatea "San Antonio" "San Carlo" "San Ferdinando" "San Filippo" "San Gabriele" "San Giovanni" "San Luigi" "San Luigi Gonzaga" "San Pasquale" Sannita "Santa Elisabetta" Spartiviero Stabia Vulcano
+	}
+	modern_frigate = {
+		Aretusa Cerere Corona Leona Minerva Pallade "Santa Lucia" Sibilla Sirena Venere
+	}
+	cruiser = {
+		Abruzzo Bari Basilicata Calabria Capitanata "Franceso II" Molise Otranto Principato
+	}
+	modern_cruiser = {
+		"Alfonso I" "Duca di Calabria" "Duca di Castro" "Duca di Noto" "Due Sicilie" "Ferdinando III" Reale Regina "Regno di Napoli" "Regno di Sicilia"
+	}
+	frigate = {
+		Borbone Ercole "Ettore Fieramosca" Farnese "Ferdinando II" Fulminante Monarca Napoli Roberto Urania
+	}
+	modern_destroyer = {
+		Archimede "Conte dell'Aquila" "Conte di Bari" "Conte di Girgenti" "Conte di Lecce" "Conte di Trani" "Conte di Trapani" "Duca delle Puglie" "Ferdinando I" "Principe di Capua"
+	}
+	destroyer = {
+		Amalia Cristina Intrepido Isabella Minerva Monarca Partenope Regina "San Gennaro" Vesuvio
+	}
+	submarine = {
+		Altavilla Angi  Aragona Austria "Federico II" Guiscardo "Pietro I" Ruggiero Svevia Tancredi
+	}
+
+}

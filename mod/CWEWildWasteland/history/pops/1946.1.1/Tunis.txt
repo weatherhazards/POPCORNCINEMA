@@ -1,0 +1,195 @@
+#Tunis - Tunis (923000/230750 POPS)
+1725 = {
+	aristocrats = {
+		culture = jewish
+		religion =  jewish 
+		size = 1132
+	 } 
+	aristocrats = {
+		culture = berber
+		religion = secularism
+		size = 20
+	 } 
+	capitalists = {
+		culture = berber
+		religion =  sunni 
+		size = 9230
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 2307
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 5487
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 182191
+	 } 
+	farmers = {
+		culture = jewish
+		religion =  jewish 
+		size = 6993
+	 } 
+	farmers = {
+		culture = jewish
+		religion = secularism
+		size = 124
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+}
+#Bizerte - Bizerte (567000/141750 POPS)
+1726 = {
+	capitalists = {
+		culture = berber
+		religion =  sunni 
+		size = 5670
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 1417
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 3371
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 116678
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}
+#Gafsa - Gafsa (825000/206250 POPS)
+1727 = {
+	capitalists = {
+		culture = berber
+		religion =  sunni 
+		size = 8250
+	 } 
+	aristocrats = {
+		culture = berber
+		religion =  sunni 
+		size = 1031
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 2062
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 4905
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 169316
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}
+#Kairouan - Kairouan (791000/197750 POPS)
+1728 = {
+	capitalists = {
+		culture = berber
+		religion =  sunni 
+		size = 7910
+	 } 
+	clergymen = {
+		culture = berber
+		religion =  sunni 
+		size = 1977
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 4703
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 162379
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}
+#Tozeur - Tozeur (135000/33750 POPS)
+1729 = {
+	capitalists = {
+		culture = berber
+		religion =  sunni 
+		size = 1350
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 28542
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}
+#Gabes - Gabes (274000/68500 POPS)
+1730 = {
+	capitalists = {
+		culture = berber
+		religion =  sunni 
+		size = 2740
+	 } 
+	artisans = {
+		culture = berber
+		religion =  sunni 
+		size = 1629
+	 } 
+	farmers = {
+		culture = berber
+		religion =  sunni 
+		size = 56901
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}

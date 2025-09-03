@@ -1,0 +1,207 @@
+graphical_culture = AsianGC
+color = { 190 190 190 }
+party = {
+		name = "Patani People's Movement (N)"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 1968.1.1
+}
+party = {
+		name = "PULO (N)"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = nationalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1968.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "Patani People's Movement (Moderate)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1968.1.1
+}
+party = {
+		name = "PULO (Moderate)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1968.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "Patani People's Movement"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1986.1.1
+}
+party = {
+		name = "BIPP"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1986.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Patani People's Movement (Liberal)"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1968.1.1
+}
+party = {
+		name = "PULO (Liberal)"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1968.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "NLFP"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = socialist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "NLFP (Right)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "BNPP (Third Position)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Patani People's Movement (Islamist)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = traditionalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 1968.1.1
+}
+party = {
+		name = "PULO (Islamist)"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = traditionalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1968.1.1
+		end_date = 1995.1.1
+}
+party = {
+		name = "GMIP"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = traditionalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1995.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "NLFP (ML)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = communist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "NLFP (LN)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+unit_names = {
+	carrier = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+	transportship = {
+	}
+	modern_frigate = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+	cruiser = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+	modern_cruiser = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+	frigate = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+	modern_destroyer = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+	destroyer = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+	submarine = {
+		Parameswara "Sultan Iskandar" Bendahara Laksamana Temenggung "Penghulu bendahari" Shahbanda "Hukum Kanun" "Undang-Undang" "Pulau Bakung" "Pulau Lingga" Kepulauan "Pulau Singkep" "Kepulauan Riau" "Pulau Rempang" "Pulau Kundur" "Pulau Padang" "Pulau Bengkaus" "Pulau Tinggi" "Pulau Sibu" "Pulau Tioman" "Pulau Aur" "Pulau Rupat" "Pulau Rangsang" "Pulau Tebing Tinggi"
+	}
+
+}

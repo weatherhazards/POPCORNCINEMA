@@ -1,0 +1,5 @@
+trade_goods = credit
+life_rating = 35
+owner = M03
+add_core =  M03
+controller = M03

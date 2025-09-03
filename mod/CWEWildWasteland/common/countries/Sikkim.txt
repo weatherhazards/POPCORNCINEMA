@@ -1,0 +1,156 @@
+graphical_culture = IndianGC
+color = { 248 228 11 }
+party = {
+		name = "Sikkim National Party (N)"
+		citizenship_policy = residency
+		economic_policy = interventionism
+		ideology = nationalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Sikkim National Party (M)"
+		citizenship_policy = residency
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Sikkim National Party"
+		citizenship_policy = residency
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Sikkim National Party (L)"
+		citizenship_policy = residency
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = moralism
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Sikkim State Congress (Left)"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = socialist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1972.1.1
+}
+party = {
+		name = "Rajya Praja Sammelan (Left)"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = socialist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1972.1.1
+		end_date = 1973.1.1
+}
+party = {
+		name = "Sikkim National Congress (Left)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = socialist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1962.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Sikkim State Congress (Right)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1972.1.1
+}
+party = {
+		name = "Rajya Praja Sammelan (Right)"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1972.1.1
+		end_date = 1973.1.1
+}
+party = {
+		name = "Sikkim National Congress (Right)"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1962.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Anti-Unionists"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "Chogyal's Authority"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = traditionalist
+		religious_policy = moralism
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "CPI - Sikkim"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = communist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+party = {
+		name = "CPI - Sikkim (Reformist)"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy1
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}

@@ -1,0 +1,123 @@
+political_decisions = {
+
+	form_benelux = {
+		picture = "form_benelux"
+		potential = {
+			is_greater_power = yes
+			AND = { 
+				exists = NET 
+				exists = BEL 
+				exists = M75
+				NOT = { exists = BNL }
+				NOT = { exists = XEU }		
+				NOT = { exists = FLA }		
+				NOT = { exists = WLL }	
+				OR = { government = democracy government = democracy1 government = hms_government government = hms_government1 }
+			}
+
+			OR = { tag = NET tag = BEL tag = M75 }
+		}
+		
+		allow = {
+			war = no
+			prestige = 150
+			NOT = { ruling_party_ideology = nationalist }
+
+			AND = {
+				OR = { is_sphere_leader_of = NET is_our_vassal = NET tag = NET }
+				OR = { NET = { government = democracy } NET = { government = hms_government } }
+			}
+			AND = {
+				OR = { is_sphere_leader_of = BEL is_our_vassal = BEL tag = BEL }
+				OR = { BEL = { government = democracy } BEL = { government = hms_government } }
+				}
+			AND = {
+				OR = { is_sphere_leader_of = M75 is_our_vassal = M75 tag = M75 }
+				OR = { M75 = { government = democracy } M75 = { government = hms_government } }
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = BNL
+			add_accepted_culture = dutch
+			add_accepted_culture = flemish
+			add_accepted_culture = wallonian
+			add_accepted_culture = german
+			remove_accepted_culture = french 
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					OR = { tag = NET tag = BEL tag = M75 }
+				}
+				country_event = 11101
+			}
+			NET = { all_core = { add_core = THIS } }
+			BEL = { all_core = { add_core = THIS } }
+			M75 = { all_core = { add_core = THIS } }
+
+			country_event = 7000001
+			country_event = 7000002
+			country_event = 7000003
+		}
+		ai_will_do = { factor = 1 }
+
+	}
+
+	form_benelux_commie = {
+		picture = "form_benelux_commie"
+		potential = {
+			OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy }
+			is_greater_power = yes
+			OR = { 
+				OR = { is_sphere_leader_of = NET is_our_vassal = NET tag = NET }
+				OR = { is_sphere_leader_of = BEL is_our_vassal = BEL tag = BEL }
+				OR = { is_sphere_leader_of = M75 is_our_vassal = M75 tag = M75 }
+			}
+		}
+		
+		allow = {
+			war = no
+			AND = {
+				NET = { OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy } }
+				OR = { is_sphere_leader_of = NET is_our_vassal = NET tag = NET }
+			}
+			AND = {
+				BEL = { OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy } }
+				OR = { is_sphere_leader_of = BEL is_our_vassal = BEL tag = BEL }
+			}
+			AND = {
+				M75 = { OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy } }
+				OR = { is_sphere_leader_of = M75 is_our_vassal = M75 tag = M75 }
+			}
+		}
+		
+		effect = {
+			prestige = 20
+
+			NET = {	all_core = { add_core = BNL } }
+			NET = { change_tag = BNL }
+
+			BEL = {	all_core = { add_core = BNL } }
+			BNL = { inherit = BEL }
+
+			M75 = {	all_core = { add_core = BNL } }
+			BNL = { inherit = M75 }
+
+
+			THIS = { create_vassal = BNL }
+			any_country = {
+				limit = { tag = BNL }
+				add_accepted_culture = dutch
+				add_accepted_culture = flemish
+				add_accepted_culture = wallonian
+				add_accepted_culture = german
+				remove_accepted_culture = french 
+    			ruling_party_ideology = communist
+			}
+
+		}
+		ai_will_do = { factor = 1 }
+	}
+
+}

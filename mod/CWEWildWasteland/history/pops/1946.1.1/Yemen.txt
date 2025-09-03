@@ -1,0 +1,153 @@
+#Sana - Sana (1811000/452750 POPS)
+1178 = {
+	aristocrats = {
+		culture = jewish
+		religion =  jewish 
+		size = 2257
+	 } 
+	aristocrats = {
+		culture = jewish
+		religion = secularism
+		size = 5
+	 } 
+	officers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 3109
+	 } 
+	soldiers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 12439
+	 } 
+	capitalists = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 18110
+	 } 
+	clergymen = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 4527
+	 } 
+	artisans = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 5065
+	 } 
+	farmers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 93123
+	 } 
+	farmers = {
+		culture = jewish
+		religion =  jewish 
+		size = 2258
+	 } 
+	farmers = {
+		culture = jewish
+		religion = secularism
+		size = 5
+	 } 
+	farmers = {
+		culture = arab_gulf
+		religion =  shiite 
+		size = 303640
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}
+#Hodeida - Hodeida (529000/132250 POPS)
+1179 = {
+	soldiers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 3633
+	 } 
+	capitalists = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 5290
+	 } 
+	clergymen = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 1322
+	 } 
+	artisans = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 1479
+	 } 
+	farmers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 117265
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}
+#Taizz - Taizz (1619000/404750 POPS)
+1180 = {
+	officers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 2780
+	 } 
+	soldiers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 11120
+	 } 
+	capitalists = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 16190
+	 } 
+	aristocrats = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 2023
+	 } 
+	clergymen = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 4047
+	 } 
+	artisans = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 4528
+	 } 
+	farmers = {
+		culture = arab_gulf
+		religion =  sunni 
+		size = 210853
+	 } 
+	farmers = {
+		culture = arab_gulf
+		religion =  shiite 
+		size = 145976
+	 } 
+
+	#For Pan-Arab and National Arab
+	farmers = {
+		culture = arab
+		religion =  sunni 
+		size = 1000
+	 } 
+
+}

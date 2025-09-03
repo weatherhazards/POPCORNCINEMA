@@ -1,0 +1,162 @@
+graphical_culture = ItalianGC
+color = { 226 243 93 }
+party = {
+		name = "party_big_tent"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = big_tent
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "party_conservative_0_TUS"
+		citizenship_policy = limited_citizenship
+		economic_policy = interventionism
+		ideology = conservative
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "party_liberal_0_TUS"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "party_socialist_0_TUS"
+		citizenship_policy = limited_citizenship
+		economic_policy = state_capitalism
+		ideology = socialist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "party_progressive_0_TUS"
+		citizenship_policy = full_citizenship
+		economic_policy = interventionism
+		ideology = progressive
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "party_populist_0_TUS"
+		citizenship_policy = residency
+		economic_policy = state_capitalism
+		ideology = populist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = jingoism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+	name = "party_traditionalist_0_TUS"
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	ideology = traditionalist
+	religious_policy = moralism
+	trade_policy = protectionism
+	war_policy = jingoism
+	start_date = 1836.1.1
+	end_date = 1995.1.1
+}
+party = {
+	name = "party_traditionalist_1_TUS"
+	citizenship_policy = residency
+	economic_policy = state_capitalism
+	ideology = traditionalist
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = jingoism
+	start_date = 1995.1.1
+	end_date = 2009.1.1
+}
+party = {
+	name = "party_traditionalist_2_TUS"
+	citizenship_policy = residency
+	economic_policy = interventionism
+	ideology = traditionalist
+	religious_policy = moralism
+	trade_policy = free_trade
+	war_policy = jingoism
+	start_date = 2012.1.1
+	end_date = 2100.1.1
+}
+party = {
+		name = "party_communist_0_TUS"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = communist
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "party_nationalist"
+		citizenship_policy = full_citizenship
+		economic_policy = planned_economy
+		ideology = nationalist
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2100.1.1
+}
+party = {
+		name = "party_communist_social"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = communist_social
+		religious_policy = pro_atheism
+		trade_policy = protectionism
+		war_policy = pro_military
+		start_date = 1836.1.1
+		end_date = 2092.1.1
+}
+unit_names = {
+	carrier = {
+		"Sanctus Petrus" "Sanctus Paulus" "Sanctus Ioannes" "Sanctus Andreas" "Sanctus Marcus" "Sanctus Lucas" "Sanctus Matthaeus" "Sanctus Thomas" "Sanctus Bartholomaeus" "Sanctus Simon" "Sanctus Iudas" "Sanctus Philippus" "Sanctus Stephanus" "Sanctus Laurentius" "Sanctus Christophorus"
+	}
+	transportship = {
+	}
+	modern_frigate = {
+		"Archangelus Michael" "Archangelus Gabriel" "Archangelus Raphael" "Seraphim" "Cherubim" "Dominatio" "Virtus" "Potestas" "Principatus" "Angelus Custos" "Angelus Pacis" "Angelus Lucis"
+	}
+	cruiser = {
+		"Roma Aeterna" "Civitas Vaticana" "Castel Gandolfo" "Via Appia" "Colosseum" "Pantheon" "Basilica Sancti Petri" "Basilica Sancti Pauli" "Basilica Sancti Ioannis" "Basilica Sanctae Mariae Maioris" "Ara Coeli" "Scala Sancta" "Catacumbae" "Via Sacra" "Mons Vaticanus" "Gianicolo" "Ager Vaticanus" "Pons Aelius" "Obeliscus" "Fons Sancti Petri"
+	}
+	modern_cruiser = {
+		"Concilium Vaticanum" "Concilium Tridentinum" "Concilium Lateranense" "Concilium Ephesinum" "Concilium Chalcedonense" "Concilium Nicaenum" "Concilium Constantinopolitanum" "Concilium Florentinum" "Concilium Lugdunense" "Concilium Viennense" "Concilium Constantiensis" "Concilium Basileense" "Concilium Senense" "Concilium Pisanum" "Concilium Arausicanum" "Concilium Toletanum" "Concilium Carthaginense" "Concilium Nicenum Secundum" "Concilium Lateranense Quartum" "Concilium Lugdunense Secundum"
+	}
+	frigate = {
+		Fides Spes Caritas Prudentia Iustitia Temperantia Fortitudo Sapientia Pax Gaudium Patientia Bonitas Benignitas Mansuetudio Modestia Continentia Castitas Humilitas Pietas Misericordia Simplicitas Veritas Magnanimitas Constantia
+	}
+	modern_destroyer = {
+		"Gregorius Magnus" "Leo Magnus" "Pius Nonus" "Pius Decimus" "Benedictus Quintus Decimus" "Ioannes Vicesimus Tertius" "Paulus Sextus" "Ioannes Paulus Primus" "Ioannes Paulus Secundus" "Benedictus Decimus Sextus" "Franciscus" "Clemens Septimus" "Innocentius Tertius" "Bonifacius Octavus" "Urbanus Octavus" "Sixtus Quartus" "Iulius Secundus" "Paulus Tertius" "Pius Quintus" "Pius Septimus" "Pius Duodecimus"
+	}
+	destroyer = {
+		Hierosolyma Bethlehem Nazareth Galilaea Iudaea Samaria Capernaum Damascus Antiochia Alexandria Constantinopolis Ravenna Cantuaria Avinio Genua Mediolanum Venetia Neapolis Tarentum Syracusae Messana
+	}
+	submarine = {
+		Leviathan Cetus Draco Proteus Nereus Triton Oceanus Neptunus Pontus Abyssus Profundum Mare Tenebrae Silentium Obscurum Mysterium Arcanum Occultum Absconditum Latens
+	}
+}
