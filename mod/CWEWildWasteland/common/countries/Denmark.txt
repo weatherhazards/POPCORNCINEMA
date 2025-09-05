@@ -111,7 +111,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Socialist People's Party"
+		name = "Socialdemokratiet"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy1
 		ideology = socialist

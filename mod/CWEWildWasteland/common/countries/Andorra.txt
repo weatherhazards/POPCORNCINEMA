@@ -1,7 +1,7 @@
-graphical_culture = ZuluGC
+graphical_culture = EuropeanGC
 color = { 123 92 74 }
 party = {
-		name = "Inkatha Freedom Party"
+		name = "Andorra Endavant"
 		citizenship_policy = residency
 		economic_policy = interventionism
 		ideology = nationalist
@@ -12,7 +12,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Inkatha Freedom Party"
+		name = "DA"
 		citizenship_policy = limited_citizenship
 		economic_policy = interventionism
 		ideology = conservative
@@ -23,7 +23,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Independents"
+		name = "Unió Liberal"
 		citizenship_policy = full_citizenship
 		economic_policy = laissez_faire
 		ideology = liberal
@@ -34,7 +34,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Independents"
+		name = "Ciutadans Compromesos"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = big_tent
@@ -45,7 +45,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "African National Congress"
+		name = "Partit Socialdemòcrata"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
@@ -56,7 +56,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "party_progressive_0_ZUL"
+		name = "Concòrdia"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive
@@ -67,7 +67,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Inkatha Freedom Party"
+		name = "Unió Laurediana"
 		citizenship_policy = residency
 		economic_policy = interventionism
 		ideology = populist
@@ -78,7 +78,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "party_traditionalist_0_ZUL"
+		name = "Diòcesi d'Urgell"
 		citizenship_policy = residency
 		economic_policy = state_capitalism
 		ideology = traditionalist
@@ -89,7 +89,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "SACP - kwaZulu"
+		name = "Partit Socialdemòcrata (ML)"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
 		ideology = communist
@@ -100,7 +100,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "SACP - kwaZulu"
+		name = "Partit Socialdemòcrata (ML-R)"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy1
 		ideology = communist_social
@@ -112,30 +112,31 @@ party = {
 }
 unit_names = {
 	carrier = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Alfons el Cast" "Almog vers" "Els Segadors" "Generalitat" "Jaume el Conqueridor" "Josep Moragues" "Pere el Gran" "Rafael Casanova" "Roger de Flor" "Roger de Ll ria"
 	}
 	transportship = {
+		" guila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Gl ria" "Ibera" "Lle  de Montpellier" "Mare de D u de Montserrat" "Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "Trit " "Unicorn"
 	}
 	modern_frigate = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Auda " "Destructor" "For uda" "Furor" "Llampec" "Mediterr nia" "Tempesta" "Terror" "Tro" "Velo "
 	}
 	cruiser = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Ateneu de Grandesa" "Cibeles" "Consolat del Mar" "Diana" "Juno" "Minerva" "Quadribarrada" "Sang sobre Or" "Senyera" "Tirant lo Blanch"
 	}
 	modern_cruiser = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Alfons el Cast" "Almog vers" "Els Segadors" "Generalitat" "Jaume el Conqueridor" "Josep Moragues" "Pere el Gran" "Rafael Casanova" "Roger de Flor" "Roger de Ll ria"
 	}
 	frigate = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Barcelona" "Crist for Despuig" "Girona" "Joanot Martorell" "Jupiter" "Lleida" "Nept " "Pere Seraf " "Plut " "Tarragona"
 	}
 	modern_destroyer = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Catalunya" "Corpus Christi" "Figueres" "Manresa" "Principat" "Sabadell" "Sant Joan" "Sant Jordi" "Tortosa" "Urgell"
 	}
 	destroyer = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Bisbat d'Urgell" "Esperit Sant" "Sant Jaume" "Sant Josep" "Sant Oleguer" "Sant Pere" "Santa Isabel" "Vescomtat d'Ausona" "Vescomtat de Besal " "Vescomtat de Cerdanya"
 	}
 	submarine = {
-		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+		"Comtat de Barcelona" "Comtat d'Empuries" "Comtat d'Urgell" "Dues Sic lies" "H rcules" "Mallorca" "N mesi" "Sardenya" "Val ncia" "Vulcano"
 	}
 
 }

@@ -122,18 +122,18 @@ party = {
 		end_date = 1975.1.1
 }
 party = {
-		name = "Labour Party (Hard Left)"
+		name = "Labour Party"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
 		religious_policy = secularized
 		trade_policy = protectionism
 		war_policy = pacifism
-		start_date = 1975.1.1
+		start_date = 1836.1.1
 		end_date = 2092.1.1
 }
 party = {
-		name = "Independent Labour Party (Right)"
+		name = "Independent Labour Party (R)"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = progressive
@@ -144,7 +144,7 @@ party = {
 		end_date = 1975.1.1
 }
 party = {
-		name = "Labour Party (Soft Left)"
+		name = "Labour Party (R)"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = progressive

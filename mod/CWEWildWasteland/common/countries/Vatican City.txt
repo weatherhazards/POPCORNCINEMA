@@ -1,7 +1,7 @@
 graphical_culture = ItalianGC
 color = { 226 243 93 }
 party = {
-		name = "party_big_tent"
+		name = "Curial Faction"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = big_tent
@@ -12,8 +12,8 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_conservative_0_TUS"
-		citizenship_policy = limited_citizenship
+		name = "Doctrinal Congregation"
+		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = conservative
 		religious_policy = secularized
@@ -23,7 +23,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_liberal_0_TUS"
+		name = "Aggiornamento Movement"
 		citizenship_policy = full_citizenship
 		economic_policy = laissez_faire
 		ideology = liberal
@@ -34,8 +34,8 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_socialist_0_TUS"
-		citizenship_policy = limited_citizenship
+		name = "Prêtres au travail"
+		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
 		religious_policy = pro_atheism
@@ -45,7 +45,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_progressive_0_TUS"
+		name = "Aggiornamento Movement (L)"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive
@@ -56,8 +56,8 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_populist_0_TUS"
-		citizenship_policy = residency
+		name = "Aggiornamento Movement (R)"
+		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = populist
 		religious_policy = secularized
@@ -67,8 +67,8 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-	name = "party_traditionalist_0_TUS"
-	citizenship_policy = residency
+	name = "Latin Mass Movement"
+	citizenship_policy = full_citizenship
 	economic_policy = state_capitalism
 	ideology = traditionalist
 	religious_policy = moralism
@@ -78,29 +78,7 @@ party = {
 	end_date = 1995.1.1
 }
 party = {
-	name = "party_traditionalist_1_TUS"
-	citizenship_policy = residency
-	economic_policy = state_capitalism
-	ideology = traditionalist
-	religious_policy = moralism
-	trade_policy = free_trade
-	war_policy = jingoism
-	start_date = 1995.1.1
-	end_date = 2009.1.1
-}
-party = {
-	name = "party_traditionalist_2_TUS"
-	citizenship_policy = residency
-	economic_policy = interventionism
-	ideology = traditionalist
-	religious_policy = moralism
-	trade_policy = free_trade
-	war_policy = jingoism
-	start_date = 2012.1.1
-	end_date = 2100.1.1
-}
-party = {
-		name = "party_communist_0_TUS"
+		name = "Prêtres au travail (ML)"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
 		ideology = communist
@@ -111,7 +89,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_nationalist"
+		name = "Latin Mass Movement (R)"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
 		ideology = nationalist
@@ -122,7 +100,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_communist_social"
+		name = "Prêtres au travail (ML-R)"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = communist_social

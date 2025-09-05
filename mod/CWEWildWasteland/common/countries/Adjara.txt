@@ -45,7 +45,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Supremem Soviet"
+		name = "Supreme Soviet"
 		citizenship_policy = limited_citizenship
 		economic_policy = planned_economy1
 		ideology = socialist
@@ -67,7 +67,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "For the People"
+		name = "Democratic Union for Revival (SD)"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive
@@ -89,7 +89,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Traditionalists"
+		name = "Union of Georgian Traditionalists"
 		citizenship_policy = residency
 		economic_policy = state_capitalism
 		ideology = traditionalist
