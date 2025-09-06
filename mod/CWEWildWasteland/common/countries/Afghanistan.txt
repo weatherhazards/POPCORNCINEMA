@@ -105,14 +105,14 @@ party = {
 		end_date = 2003.8.21
 }
 party = {
-		name = "NUPA"
+		name = "Democratic Watan Party (Liberal)"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
 		religious_policy = secularized
 		trade_policy = protectionism
 		war_policy = pacifism
-		start_date = 2003.8.21
+		start_date = 1990.1.1
 		end_date = 2092.1.1
 }
 party = {

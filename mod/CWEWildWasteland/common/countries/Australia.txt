@@ -155,9 +155,9 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Australian Labor Party (Labor Left)"
+		name = "Australian Labor Party"
 		citizenship_policy = limited_citizenship
-		economic_policy = state_capitalism
+		economic_policy = interventionism
 		ideology = socialist
 		religious_policy = secularized
 		trade_policy = protectionism
@@ -166,7 +166,7 @@ party = {
 		end_date = 1967.1.1
 }
 party = {
-		name = "Australian Labor Party (Labor Left)"
+		name = "Australian Labor Party"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
@@ -309,6 +309,17 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
+		name = "Australian Labor Party (ML)"
+		citizenship_policy = full_citizenship
+		economic_policy = state_capitalism
+		ideology = communist_social
+		religious_policy = secularized
+		trade_policy = protectionism
+		war_policy = pacifism
+		start_date = 1836.1.1
+		end_date = 1967.1.1
+}
+party = {
 		name = "Communist Party of Australia"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
@@ -320,7 +331,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Communist Party of Australia"
+		name = "Communist Party of Australia (R)"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = communist_social
@@ -328,19 +339,9 @@ party = {
 		trade_policy = protectionism
 		war_policy = pacifism
 		start_date = 1836.1.1
-		end_date = 1991.1.1
-}
-party = {
-		name = "New Left Party"
-		citizenship_policy = full_citizenship
-		economic_policy = state_capitalism
-		ideology = communist_social
-		religious_policy = secularized
-		trade_policy = protectionism
-		war_policy = pacifism
-		start_date = 1991.1.1
 		end_date = 2092.1.1
 }
+
 unit_names = {
 	carrier = {
 		"Big Bruce" Tasmania Queensland "New South Wales" Commonwealth

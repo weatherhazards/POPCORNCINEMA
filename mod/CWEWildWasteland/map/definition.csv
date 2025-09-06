@@ -3386,16 +3386,19 @@ province;red;green;blue;x;x
 3385;229;243;94;San Marino;x
 3386;228;243;95;Andorra;x
 3387;220;243;95;Liechtenstein;x
-3388;210;220;54;Monaco;x
-;97;16;236;x
-;98;16;240;x
-;99;16;244;x
-;100;16;248;x
-;101;16;232;x
-;102;16;236;x
-;103;16;240;x
-;104;16;244;x
-;105;16;248;x
+3388;255;255;137;Monaco;x
+3389;163;25;0;Jan Mayen;x
+3390;58;234;238;Auckland Islands;x
+3391;57;234;238;Campbell Island;x
+3392;56;234;238;Antipodes Island;x
+3393;55;234;238;Macquarie Island;x
+3394;59;251;63;Kerguelen Islands;x
+3395;58;251;63;Heard Island and Mcdonald Islands;x
+3396;56;251;63;Laurie Island;x
+3397;55;251;63;Coronation Island;x
+3398;54;251;63;Powell Island;x
+3399;51;234;238;Crozet Islands;x
+3400;49;234;238;Marion Island;x
 ;106;16;232;x
 ;107;16;236;x
 ;108;16;240;x

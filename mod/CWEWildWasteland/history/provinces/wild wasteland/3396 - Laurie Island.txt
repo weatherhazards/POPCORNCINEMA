@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 0
+owner = ARG
+add_core =  ARG
+add_core = ENG
+controller = ARG

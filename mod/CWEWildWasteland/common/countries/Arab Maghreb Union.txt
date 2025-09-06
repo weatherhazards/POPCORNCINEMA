@@ -46,7 +46,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Arab Socialist Baʿath Party (Left)"
+		name = "Arab Socialist Ba'ath Party (L)"
 		citizenship_policy = limited_citizenship
 		economic_policy = planned_economy1
 		ideology = socialist
@@ -68,7 +68,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Arab Socialist Baʿath Party (Right)"
+		name = "Arab Socialist Baʿath Party (R)"
 		citizenship_policy = residency
 		economic_policy = state_capitalism
 		ideology = populist

@@ -1,7 +1,7 @@
 graphical_culture = SouthAmericanGC
 color = { 255 161 0 }
 party = {
-		name = "PCC (Right)"
+		name = "PCC (R)"
 		citizenship_policy = limited_citizenship
 		economic_policy = state_capitalism
 		ideology = nationalist
@@ -24,7 +24,7 @@ party = {
 }
 
 party = {
-		name = "DLP (Center)"
+		name = "DLP"
 		citizenship_policy = limited_citizenship
 		economic_policy = interventionism
 		ideology = conservative
@@ -35,7 +35,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "DLP (Left)"
+		name = "DLP (L)"
 		citizenship_policy = full_citizenship
 		economic_policy = laissez_faire
 		ideology = liberal
@@ -46,7 +46,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "WIFLP (Left)"
+		name = "WIFLP"
 		citizenship_policy = limited_citizenship
 		economic_policy = planned_economy1
 		ideology = socialist
@@ -57,7 +57,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "PCC (Left)"
+		name = "PCC (L)"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive
@@ -68,7 +68,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "DLP (Populist)"
+		name = "PNM"
 		citizenship_policy = residency
 		economic_policy = state_capitalism
 		ideology = populist
@@ -79,7 +79,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "DLP (Right)"
+		name = "DLP (R)"
 		citizenship_policy = residency
 		economic_policy = state_capitalism
 		ideology = traditionalist
@@ -90,7 +90,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "WIFLP (Far-Left)"
+		name = "WIFLP (L)"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
 		ideology = communist
@@ -101,7 +101,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "WIFLP (Left Nationalist)"
+		name = "WIFLP (N)"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = communist_social

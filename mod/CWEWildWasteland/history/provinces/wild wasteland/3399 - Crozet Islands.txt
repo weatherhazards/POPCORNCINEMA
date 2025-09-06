@@ -1,0 +1,7 @@
+trade_goods = fish
+life_rating = 0
+add_core =  FRA
+add_core =  MAD
+1992.1.1 = {
+owner = FRA
+controller = FRA

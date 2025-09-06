@@ -1,0 +1,5 @@
+trade_goods = fish
+life_rating = 0
+owner = NZL
+add_core =  NZL
+controller = NZL

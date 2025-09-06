@@ -1,0 +1,5 @@
+trade_goods = credit
+life_rating = 35
+owner = M76
+add_core =  M76
+controller = M76
