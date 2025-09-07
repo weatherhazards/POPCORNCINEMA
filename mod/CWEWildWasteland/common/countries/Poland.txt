@@ -188,7 +188,7 @@ party = {
 		end_date = 1990.1.28
 }
 party = {
-		name = "SdRP (Left)" 
+		name = "SdRP" 
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist

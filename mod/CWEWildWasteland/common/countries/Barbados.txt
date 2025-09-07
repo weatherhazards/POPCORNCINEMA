@@ -46,7 +46,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "People's Empowerment Party (Socialist)"
+		name = "Barbados Labour Party (Left)"
 		citizenship_policy = limited_citizenship
 		economic_policy = planned_economy1
 		ideology = socialist

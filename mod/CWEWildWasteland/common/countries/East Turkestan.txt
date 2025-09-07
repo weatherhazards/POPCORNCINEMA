@@ -1,7 +1,7 @@
 graphical_culture = MiddleEasternGC
 color = { 176 196 222 }
 party = {
-		name = "National Revolution Committee" #Shortened to meet 31 character (including spaces) UI limit
+		name = "National Revolution Committee"
 		citizenship_policy = limited_citizenship
 		economic_policy = state_capitalism
 		ideology = nationalist
@@ -67,7 +67,7 @@ party = {
 		end_date = 2004.1.1
 }
 party = {
-		name = "ETNAM" #Merged with the 'Government in Exile' in the US that is treated as a political party tied to this one
+		name = "ETNAM" 
 		citizenship_policy = full_citizenship
 		economic_policy = laissez_faire
 		ideology = liberal
@@ -78,7 +78,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "People's Revolutionary Party" #Fictional
+		name = "People's Revolutionary Party"
 		citizenship_policy = limited_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
@@ -111,7 +111,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Uyghur Congress Party"
+		name = "Xianjiang Kuomintang"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive
@@ -133,7 +133,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Turkistan Islamic Party" #Includes predecessor of a similar name
+		name = "Turkistan Islamic Party" 
 		citizenship_policy = residency
 		economic_policy = state_capitalism
 		ideology = traditionalist
@@ -144,7 +144,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "ETTPNLC" #East Turkistan Turkic People's National Liberation Committee
+		name = "ETTPNLC" 
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
 		ideology = communist
@@ -155,7 +155,7 @@ party = {
 		end_date = 1969.1.1 
 }
 party = {
-		name = "ETPRP" #East Turkestan People's Revolutionary Party
+		name = "ETPRP" 
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
 		ideology = communist
@@ -166,7 +166,7 @@ party = {
 		end_date = 2092.1.1 #1989.1.1
 }
 party = {
-		name = "ETTPNLC (Reformist)" #East Turkistan Turkic People's National Liberation Committee
+		name = "ETTPNLC (Reformist)" 
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy1
 		ideology = communist_social
@@ -177,7 +177,7 @@ party = {
 		end_date = 1969.1.1
 }
 party = {
-		name = "URFET" #United Revolutionary Front of East Turkestan
+		name = "URFET" 
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy1
 		ideology = communist_social

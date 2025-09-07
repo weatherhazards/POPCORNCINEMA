@@ -9,7 +9,7 @@ non_state_culture_literacy = 0.0
 civilized = yes
 prestige = 19
 last_election = 1945.3.1
-ruling_party = "Radical Party (M)"
+ruling_party = "Radical Party"
 upper_house = {
 	populist = 4
 	big_tent = 21
@@ -80,7 +80,7 @@ decision = jointheunga
 oob = "/CHL_oob.txt"
 
 1950.1.1 = {
-	ruling_party = "Radical Party (M)"
+	ruling_party = "Radical Party"
 }
 
 1992.1.1 = {

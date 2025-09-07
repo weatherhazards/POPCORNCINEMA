@@ -46,7 +46,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "SPD Bayern (Radicals)"
+		name = "SPD Bayern"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist

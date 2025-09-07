@@ -4,7 +4,7 @@ sar_government = { 255 165 0 }
 
 
 party = {
-		name = "All Ceylon Tamil Congress"
+		name = "All Ceylon Tamil Congress (R)"
 		citizenship_policy = residency
 		economic_policy = state_capitalism
 		ideology = nationalist
@@ -37,7 +37,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "party_big_tent"
+		name = "TULF"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = big_tent
@@ -48,7 +48,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "party_conservative_0_TAE"
+		name = "ITAK (R)"
 		citizenship_policy = limited_citizenship
 		economic_policy = interventionism
 		ideology = conservative
@@ -59,7 +59,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "party_liberal_0_TAE"
+		name = "All Ceylon Tamil Congress (L)"
 		citizenship_policy = full_citizenship
 		economic_policy = laissez_faire
 		ideology = liberal
@@ -67,6 +67,17 @@ party = {
 		trade_policy = free_trade
 		war_policy = pacifism
 		start_date = 1836.1.1
+		end_date = 2010.2.1
+}
+party = {
+		name = "TNPF"
+		citizenship_policy = full_citizenship
+		economic_policy = laissez_faire
+		ideology = liberal
+		religious_policy = secularized
+		trade_policy = free_trade
+		war_policy = pacifism
+		start_date = 2010.2.1
 		end_date = 2092.1.1
 }
 party = {
@@ -81,7 +92,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "party_progressive_0_TAE"
+		name = "ITAK (L)"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive

@@ -34,7 +34,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "Comitato della Libertà"
+		name = "Comitato della Liberta"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
