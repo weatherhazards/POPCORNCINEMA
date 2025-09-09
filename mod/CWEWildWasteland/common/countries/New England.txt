@@ -2,7 +2,7 @@ color = { 166  224  85 }
 graphical_culture = BritishGC
 
 party = {
-		name = "New England Independence Party"
+		name = "New England National People's Party"
 		citizenship_policy = limited_citizenship
 		economic_policy = state_capitalism
 		ideology = nationalist
@@ -13,7 +13,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "A New England Party" #Based off Weicker's ACP
+		name = "Democratic-Republican Party"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = big_tent
@@ -36,7 +36,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Democratic Party"
+		name = "Tea Party Coalition"
 		citizenship_policy = full_citizenship
 		economic_policy = laissez_faire
 		ideology = liberal
@@ -47,7 +47,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Green Mountain Peace and Justice Party"
+		name = "SDUSA"
 		citizenship_policy = limited_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
@@ -58,7 +58,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Progressive Party (P)"
+		name = "Green Party - New England"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive
@@ -69,7 +69,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Minutemen Party"
+		name = "Citizens of Liberty"
 		citizenship_policy = residency
 		economic_policy = interventionism
 		ideology = populist
@@ -80,9 +80,9 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Taxpayer's Party"
-		citizenship_policy = limited_citizenship
-		economic_policy = laissez_faire
+		name = "Novanglian Order of the New Dawn" #it a piers so. jon tihor
+		citizenship_policy = residency
+		economic_policy = interventionism
 		ideology = traditionalist
 		religious_policy = moralism
 		trade_policy = protectionism
@@ -91,7 +91,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Communist Party"
+		name = "Communist Party of New England"
 		citizenship_policy = full_citizenship
 		economic_policy = planned_economy
 		ideology = communist
@@ -102,7 +102,7 @@ party = {
 		end_date = 2092.1.1
 }
 party = {
-		name = "Communist Party (Reformist)"
+		name = "Revolutionary Worker's Party of New England"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = communist_social
@@ -114,39 +114,30 @@ party = {
 }
 unit_names = {
 	carrier = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Mayflower" "Arbella" "Old Ironsides" "Yankee" "Sovereign" "Republic" "Enterprise" "Concord" "Lexington" "Providence" "Freedom" "Independence"
 	}
 	transportship = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Plymouth" "Salem" "Nantucket" "Cape Cod" "Martha's Vineyard" "New Haven" "Portland" "Portsmouth" "New Bedford" "Gloucester" "Newport" "Bar Harbor"
 	}
 	modern_frigate = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Rhode Island" "Connecticut" "New Hampshire" "Vermont" "Maine" "Massachusetts" "Cape Ann" "Long Island" "Block Island" "Buzzards Bay" "Narragansett" "Penobscot"
 	}
 	cruiser = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"John Winthrop" "Roger Williams" "John Adams" "Samuel Adams" "John Hancock" "Paul Revere" "James Otis" "William Bradford" "Benjamin Franklin" "Cotton Mather"
 	}
 	modern_cruiser = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Bunker Hill" "Breed's Hill" "Saratoga" "Bennington" "Castine" "Louisbourg" "Ticonderoga" "Crown Point" "Fort Western" "Fort William Henry"
 	}
 	frigate = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Charles River" "Kennebec" "Merrimack" "Connecticut River" "Housatonic" "Androscoggin" "Penobscot" "Saco" "Piscataqua" "Blackstone" "Presumpscot" "Deerfield"
 	}
 	modern_destroyer = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Minuteman" "Sons of Liberty" "Green Mountain" "White Mountain" "Berkshire" "Green Dragon" "Old North" "Granite" "Pine Tree" "Charter Oak"
 	}
 	destroyer = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Whirlwind" "Nor'easter" "Squall" "Tempest" "Monsoon" "Gale" "Hurricane" "Typhoon" "Mistral" "Zephyr" "Sirocco" "Levanter"
 	}
 	submarine = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
+		"Whale" "Narwhal" "Orca" "Porpoise" "Dolphin" "Shark" "Swordfish" "Sturgeon" "Marlin" "Barracuda" "Tuna" "Lobster"
 	}
 }

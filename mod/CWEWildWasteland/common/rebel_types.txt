@@ -2663,21 +2663,6 @@ separatist_rebels = {
 		}
 		
 		modifier = {
-		    factor = 1.25
-		    location = { average_militancy = 5 }
-		}
-		
-		modifier = {
-		    factor = 1.25
-			location = { average_militancy = 7.5 }
-		}
-		
-		modifier = {
-		    factor = 1.5
-			location = { average_militancy = 10 }
-		}
-		
-		modifier = {
 			war_exhaustion = 4
 			factor = 0.95
 		}
@@ -2786,12 +2771,6 @@ separatist_rebels = {
 		modifier = {
 			factor = 0.8
 			is_accepted_culture = yes
-		}
-		modifier = {
-			factor = 1.2
-			location = {
-				is_colonial = yes
-			}
 		}
 		
 		#modifier = {
@@ -3210,22 +3189,7 @@ superstate_separatist_rebels = {
 			has_country_flag = spy_medium_flag
 			factor = 0.5
 		}
-		
-		modifier = {
-		        factor = 1.25
-		        location = { average_militancy = 5 }
-		}
-		
-		modifier = {
-		        factor = 1.25
-			location = { average_militancy = 7.5 }
-		}
-		
-		modifier = {
-		        factor = 1.5
-			location = { average_militancy = 10 }
-		}
-		
+
 		modifier = {
 			war_exhaustion = 4
 			factor = 0.95

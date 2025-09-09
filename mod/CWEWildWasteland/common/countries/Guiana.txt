@@ -1,7 +1,7 @@
 graphical_culture = FrenchGC
 color = { 237 232 111 }
 party = {
-		name = "party_nationalist"
+		name = "Divers Droite (FR)"
 		citizenship_policy = limited_citizenship
 		economic_policy = state_capitalism
 		ideology = nationalist
@@ -12,7 +12,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "party_big_tent"
+		name = "Union Republicaine de la Guyane (L)"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = big_tent
@@ -23,7 +23,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "Union Républicaine de la Guyane"
+		name = "Union Republicaine de la Guyane (R)"
 		citizenship_policy = limited_citizenship
 		economic_policy = interventionism
 		ideology = conservative
@@ -34,7 +34,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "Les Républicains"
+		name = "Les Republicains"
 		citizenship_policy = limited_citizenship
 		economic_policy = interventionism
 		ideology = conservative
@@ -45,7 +45,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "Action Démocratique Guyanaise"
+		name = "Action Democratique Guyanaise"
 		citizenship_policy = full_citizenship
 		economic_policy = laissez_faire
 		ideology = liberal
@@ -67,7 +67,7 @@ party = {
 		end_date = 2100.1.1
 }
 party = {
-		name = "Mouvement Démocrate"
+		name = "Mouvement Democrate"
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = progressive

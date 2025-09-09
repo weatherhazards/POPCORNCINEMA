@@ -1066,7 +1066,7 @@ country_event = {
 
 	option = {
 		name = "Gheorghe Apostol, a Stalinist-Reformer"
-		ideology = communist_social
+		ruling_party_ideology = communist_social
 		any_pop = { militancy = 1 consciousness = 1 }
 		
 		any_pop = { 
@@ -1224,7 +1224,7 @@ country_event = {
 
 	option = {
 		name = "Gheorghe Apostol, a Stalinist-Reformer"
-		ideology = communist_social
+		ruling_party_ideology = communist_social
 		
 		#Limited reforms
 		political_reform = ruling_party_opinion
@@ -2721,7 +2721,7 @@ country_event = {
 		political_reform = restricted_unions
 		political_reform = open_opinion
 		
-		ideology = communist_social
+		ruling_party_ideology = communist_social
 		
 		change_party_position = {
 			ideology = communist_social
@@ -2966,7 +2966,7 @@ country_event = {
 		political_reform = restricted_unions
 		political_reform = open_opinion
 		
-		ideology = communist_social
+		ruling_party_ideology = communist_social
 		
 		change_party_position = {
 			ideology = communist_social
@@ -3215,7 +3215,7 @@ country_event = {
 		political_reform = restricted_unions
 		political_reform = open_opinion
 		
-		ideology = communist_social
+		ruling_party_ideology = communist_social
 		
 		change_party_position = {
 			ideology = communist_social
@@ -3420,7 +3420,7 @@ country_event = {
 		political_reform = restricted_unions
 		political_reform = open_opinion
 		
-		ideology = communist_social
+		ruling_party_ideology = communist_social
 		
 		change_party_position = {
 			ideology = communist_social
@@ -3515,7 +3515,7 @@ country_event = {
 		political_reform = no_trade_unions
 		political_reform = ruling_party_opinion
 		
-		ideology = communist
+		ruling_party_ideology = communist
 		
 		change_party_position = {
 			ideology = communist

@@ -125,7 +125,7 @@ socialist_democracy = { 255 69 0 }
 		end_date = 1991.1.1
 	}
 	party = {
-		name = "party_socialist_2_HND"
+		name = party_socialist_2_HND
 		citizenship_policy = full_citizenship
 		economic_policy = interventionism
 		ideology = socialist

@@ -263,7 +263,7 @@ party = {
 		
 }
 party = {
-		name = "BSP - Centenarian (Left)"
+		name = "BSP - Centenarian"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist

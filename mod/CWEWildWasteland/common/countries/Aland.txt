@@ -199,7 +199,7 @@ party = {
 		end_date = 1971.1.1
 }
 party = {
-		name = "Aland Social Democrats (Radicals)"
+		name = "Aland Social Democrats"
 		citizenship_policy = full_citizenship
 		economic_policy = state_capitalism
 		ideology = socialist
