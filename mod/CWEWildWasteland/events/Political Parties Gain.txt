@@ -691,22 +691,6 @@ clr_country_flag = nationalist_surge
 clr_country_flag = communist_surge
 clr_country_flag = communist_social_surge
 		}
-
-option = {
-name = "Support the Populists"
-
-clr_country_flag = conservative_surge
-clr_country_flag = traditionalist_surge
-set_country_flag = populist_surge
-clr_country_flag = socialist_surge
-clr_country_flag = big_tent_surge
-clr_country_flag = liberal_surge
-clr_country_flag = progressive_surge
-clr_country_flag = nationalist_surge
-clr_country_flag = communist_surge
-clr_country_flag = communist_social_surge
-		}
-
 option = {
 name = "Support the Socialists"
 
@@ -716,7 +700,7 @@ clr_country_flag = populist_surge
 set_country_flag = socialist_surge
 clr_country_flag = big_tent_surge
 clr_country_flag = liberal_surge
-clr_country_flag = progressive_surge
+set_country_flag = progressive_surge
 clr_country_flag = nationalist_surge
 clr_country_flag = communist_surge
 clr_country_flag = communist_social_surge
@@ -751,43 +735,12 @@ clr_country_flag = nationalist_surge
 clr_country_flag = communist_surge
 clr_country_flag = communist_social_surge
 		}
-
 option = {
-name = "Support the Progressives"
+name = "Support the Nationalists"
 
 clr_country_flag = conservative_surge
 clr_country_flag = traditionalist_surge
-clr_country_flag = populist_surge
-clr_country_flag = socialist_surge
-clr_country_flag = big_tent_surge
-clr_country_flag = liberal_surge
-set_country_flag = progressive_surge
-clr_country_flag = nationalist_surge
-clr_country_flag = communist_surge
-clr_country_flag = communist_social_surge
-		}
-		
-option = {
-name = "Support the Social Democrats"
-
-clr_country_flag = conservative_surge
-clr_country_flag = traditionalist_surge
-clr_country_flag = populist_surge
-clr_country_flag = socialist_surge
-clr_country_flag = big_tent_surge
-clr_country_flag = liberal_surge
-clr_country_flag = progressive_surge
-clr_country_flag = nationalist_surge
-clr_country_flag = communist_surge
-clr_country_flag = communist_social_surge
-		}
-
-option = {
-name = "Support the Nationalist"
-
-clr_country_flag = conservative_surge
-clr_country_flag = traditionalist_surge
-clr_country_flag = populist_surge
+set_country_flag = populist_surge
 clr_country_flag = socialist_surge
 clr_country_flag = big_tent_surge
 clr_country_flag = liberal_surge
@@ -809,24 +762,8 @@ clr_country_flag = liberal_surge
 clr_country_flag = progressive_surge
 clr_country_flag = nationalist_surge
 set_country_flag = communist_surge
-clr_country_flag = communist_social_surge
-		}
-
-option = {
-name = "Support the Market Communists"
-
-clr_country_flag = conservative_surge
-clr_country_flag = traditionalist_surge
-clr_country_flag = populist_surge
-clr_country_flag = socialist_surge
-clr_country_flag = big_tent_surge
-clr_country_flag = liberal_surge
-clr_country_flag = progressive_surge
-clr_country_flag = nationalist_surge
-clr_country_flag = communist_surge
 set_country_flag = communist_social_surge
 		}
-
 option = {
 name = "Stop supporting any ideology (Clear all party bonuses)"
 

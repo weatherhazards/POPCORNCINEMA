@@ -142,32 +142,30 @@ country_event = {
 				ideology = { factor = 0.02 value = liberal }
 			}
 		}
-
-		random_owned = { #Communist governments shaken
-			limit = {
-				OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy }
-				capital_scope = { continent = europe }
-				NOT = { tag = RUS } #USSR gets its own special event
-			}
-			any_pop = {
-				consciousness = 2
-				militancy = 2
-				ideology = { factor = 0.02 value = liberal }
-			}
-			
-			any_pop = { 
-				limit = { OR = { type = aristocrats type = bureaucrats } } 
-				ideology = { factor = 0.1 value = communist_social }
-			}
-			
-			any_pop = { 
-				limit = { OR = { type = aristocrats type = bureaucrats } } 
-				ideology = { factor = 0.05 value = socialist }
-			}
-		}
-	}
+			 if = {
+        limit = {
+            OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy }
+            capital_scope = { continent = europe }
+            NOT = { tag = RUS } #USSR gets its own special event
+        }
+		 random_owned = { #Communist governments shaken
+            any_pop = {
+                consciousness = 2
+                militancy = 2
+                ideology = { factor = 0.02 value = liberal }
+            }
+            any_pop = { 
+                limit = { OR = { type = aristocrats type = bureaucrats } } 
+                ideology = { factor = 0.1 value = communist_social }
+            }
+            any_pop = { 
+                limit = { OR = { type = aristocrats type = bureaucrats } } 
+                ideology = { factor = 0.05 value = socialist }
+              }
+          }
+      }
+   }
 }
-
 
 
 #Communism spreads to South American nation
@@ -302,32 +300,29 @@ country_event = {
 				ideology = { factor = 0.03 value = liberal }
 			}
 		}
-
+			if = {
+        limit = {
+            OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy }
+            capital_scope = { continent = europe }
+        }
 		random_owned = { #Communist governments shaken
-			limit = {
-				OR = { government = proletarian_dictatorship government = proletarian_dictatorship1 government = socialist_democracy }
-				capital_scope = { continent = europe }
-				#NOT = { tag = RUS } #USSR gets its own special Modifiers
-			}
 			any_pop = {
 				consciousness = 2
 				militancy = 2
 				ideology = { factor = 0.05 value = liberal }
 			}
-			
 			any_pop = { 
 				limit = { OR = { type = aristocrats type = bureaucrats } } 
 				ideology = { factor = 0.1 value = communist_social }
 			}
-			
 			any_pop = { 
 				limit = { OR = { type = aristocrats type = bureaucrats } } 
 				ideology = { factor = 0.1 value = socialist }
+				}
 			}
 		}
 	}
 }
-
 
 
 #Western European or Capitalist European nation becomes Communist

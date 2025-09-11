@@ -775,8 +775,7 @@ country_event = {
 		
 		change_party_position = {
 			ideology = communist
-			
-			position = devolved_unitary_structure
+			position = full_citizenship
 		}
 		
 		any_pop = { 
@@ -5366,10 +5365,9 @@ country_event = {
 		name = "Democratic Party"
 		ruling_party_ideology = conservative
 		
-		
 		change_party_name = {
 			ideology = conservative
-			name "Democratic Party"
+			name = "Democratic Party"
 		}
 		
 		change_party_position = {
@@ -5379,12 +5377,6 @@ country_event = {
 			position = protectionism
 			position = laissez_faire
 			position = full_citizenship
-			
-			#Subideology
-			#position = lib_con_ideology 
-			#position = democracy_law
-			#position = unitary_structure
-
 			position = universal_weighted_voting
 			position = free_opinion
 			position = free_meetings
@@ -5397,7 +5389,6 @@ country_event = {
 			position = no_draft
 			position = minorities_equal_rights
 			position = proportional_representation
-			
 			position = paid_vacation_hours
 			position = security_data_cohesion
 			position = strict_regulations
@@ -5449,7 +5440,7 @@ country_event = {
 		
 		change_party_name = {
 			ideology = conservative
-			name "Democratic Party"
+			name = "Democratic Party"
 		}
 		
 		change_party_position = {
@@ -5459,12 +5450,6 @@ country_event = {
 			position = protectionism
 			position = laissez_faire
 			position = full_citizenship
-			
-			#Subideology
-			#position = lib_con_ideology 
-			#position = democracy_law
-			#position = unitary_structure
-
 			position = universal_weighted_voting
 			position = free_opinion
 			position = free_meetings
@@ -5477,7 +5462,6 @@ country_event = {
 			position = no_draft
 			position = minorities_equal_rights
 			position = proportional_representation
-			
 			position = paid_vacation_hours
 			position = security_data_cohesion
 			position = strict_regulations
@@ -5559,7 +5543,7 @@ country_event = {
 		
 		change_party_name = {
 			ideology = conservative
-			name "Democratic Liberal Party"
+			name = "Democratic Liberal Party"
 		}
 		
 		random_owned = { #This should give the player or AI the modifier if they don't have a majority support
@@ -5590,7 +5574,7 @@ country_event = {
 		
 		change_party_name = {
 			ideology = conservative
-			name "Democratic Liberal Party"
+			name = "Democratic Liberal Party"
 		}
 		
 		random_owned = { #This should give the player or AI the modifier if they don't have a majority support

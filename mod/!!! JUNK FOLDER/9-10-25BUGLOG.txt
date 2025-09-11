@@ -2,48 +2,12 @@ You can still play the mod, but it might be unstable
 The following problems were encountered while creating the scenario:
 
 Errors:
-Invalid tag NOT used as an effect scope (.\mod\CWEWildWasteland\decisions\UNCLOS.txt)
 unknown scope ideology introduced in a trigger (.\mod\CWEWildWasteland\events\bolivia.txt)
 any_pop effect scope used in an incorrect scope type (.\mod\CWEWildWasteland\events\bolivia.txt)
 unknown effect scope ai_chance (.\mod\CWEWildWasteland\events\bolivia.txt)
 unexpected group key country_event found on line 207 of file .\mod\CWEWildWasteland\events\bolivia.txt
-unknown scope mean_time_to_happen introduced in a trigger (.\mod\CWEWildWasteland\events\Communist Greece - Eurocommunist After Reform.txt)
-unknown scope option introduced in a trigger (.\mod\CWEWildWasteland\events\Communist Greece - Eurocommunist After Reform.txt)
-unknown scope option introduced in a trigger (.\mod\CWEWildWasteland\events\Communist Greece - Eurocommunist After Reform.txt)
-unknown scope option introduced in a trigger (.\mod\CWEWildWasteland\events\Communist Greece - Eurocommunist After Reform.txt)
-unexpected group key country_event found on line 340 of file .\mod\CWEWildWasteland\events\Communist Greece - Eurocommunist After Reform.txt
-region trigger not supplied with a state name (.\mod\CWEWildWasteland\events\italy.txt, line 1644)
-region trigger not supplied with a state name (.\mod\CWEWildWasteland\events\italy.txt, line 2102)
-region trigger used in an incorrect scope type nation(.\mod\CWEWildWasteland\events\italy.txt, line 2128)
-region trigger not supplied with a state name (.\mod\CWEWildWasteland\events\italy.txt, line 2243)
-region trigger not supplied with a state name (.\mod\CWEWildWasteland\events\italy.txt, line 3071)
-unknown key: NOT found in trigger(.\mod\CWEWildWasteland\events\romania - ahistorical.txt, line 2274)
-Invalid issue position devolved_unitary_structure (.\mod\CWEWildWasteland\events\romania.txt line 779)
-change_party_position effect used without a valid position nation (.\mod\CWEWildWasteland\events\romania.txt, line 776)
-unexpected free value name found on line 5372 of file .\mod\CWEWildWasteland\events\romania.txt
-unexpected free value Democratic Party found on line 5372 of file .\mod\CWEWildWasteland\events\romania.txt
-unexpected free value name found on line 5452 of file .\mod\CWEWildWasteland\events\romania.txt
-unexpected free value Democratic Party found on line 5452 of file .\mod\CWEWildWasteland\events\romania.txt
-unexpected free value name found on line 5562 of file .\mod\CWEWildWasteland\events\romania.txt
-unexpected free value Democratic Liberal Party found on line 5562 of file .\mod\CWEWildWasteland\events\romania.txt
-unexpected free value name found on line 5593 of file .\mod\CWEWildWasteland\events\romania.txt
-unexpected free value Democratic Liberal Party found on line 5593 of file .\mod\CWEWildWasteland\events\romania.txt
 Invalid tag NOT used as an effect scope (.\mod\CWEWildWasteland\events\uganda.txt)
 Invalid tag NOT used as an effect scope (.\mod\CWEWildWasteland\events\uganda.txt)
-Event given too many options (.\mod\CWEWildWasteland\events\Political Parties Gain.txt [pending] line 785)
-Event given too many options (.\mod\CWEWildWasteland\events\Political Parties Gain.txt [pending] line 800)
-Event given too many options (.\mod\CWEWildWasteland\events\Political Parties Gain.txt [pending] line 815)
-Event given too many options (.\mod\CWEWildWasteland\events\Political Parties Gain.txt [pending] line 830)
-government trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\Cold War Focal Point.txt [pending], line 148)
-government trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\Cold War Focal Point.txt [pending], line 148)
-government trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\Cold War Focal Point.txt [pending], line 148)
-government trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\Cold War Focal Point.txt [pending], line 308)
-government trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\Cold War Focal Point.txt [pending], line 308)
-government trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\Cold War Focal Point.txt [pending], line 308)
-is_vassal trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\dissolution_of_the_eastern_bloc.txt [pending], line 616)
-is_vassal trigger used in an incorrect scope type province (.\mod\CWEWildWasteland\events\dissolution_of_the_eastern_bloc.txt [pending], line 616)
-overlord effect scope used in an incorrect scope type (.\mod\CWEWildWasteland\events\dissolution_of_the_eastern_bloc.txt [pending])
-unknown effect duration encountered (.\mod\CWEWildWasteland\events\Proxy Wars.txt [pending], line 288)
 
 
 Warnings:
